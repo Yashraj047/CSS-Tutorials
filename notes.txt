@@ -1,0 +1,18 @@
+#CSS (Cascading Style Sheet)
+
+~ Types Of CSS :-
+
+1. Inline CSS => Inline CSS is used to style a specific HTML element.
+
+2. Internal CSS => The internal CSS has <Style> tag in the <head> section 
+
+3. External CSS => Is a separate .css file used to style multiple HTML pages by linking it to them using a <link> tag in the HTML <head>.
+
+# SELECTORS 
+
+1. Class (.) - The id selector selects the id attribute of an HTML tags.
+
+2. ID (#) - The calss selector selects HTML elements with a specific class attribute.
+
+3. Tag Name - Selects the HTML tags by name.
+
