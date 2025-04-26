@@ -16,3 +16,26 @@
 
 3. Tag Name - Selects the HTML tags by name.
 
+# Colour => Yeh property hamare font ke color ko represent karti hai
+
+*Note - Default font ka size 16 px hota hai...
+~ 1em = 16px hota hai par agar parent ka font size maan lo 10px diya gaya hai toh child ka 1em bhi 10px hi hoga baad mai agar 2em karenge toh 20px hoga...
+
+~ Text-align => Yeh hume text ko align karne ke liye use hota hai, Iske 4 Types hote hai 
+
+1 - left
+2 - center 
+3 - right
+4 - justify => Yeh automatically text ko allign kar deta hai.
+
+* Text-Transform => yeh property mai hum hum text ko 3 tareka se transform kar sakte hai 
+for ex :- 1. Uppercase (ABC)
+          2. Lowercase (abc)
+          3. Capitalized (Abc)
+
+*&nbsp => Yeh key word hota hai jisse mai text mai space provide karwa sakte hai.
+
+* word-spacing => word mai px ya phir em ke form mai word pe spacing karta hai joh ki hum Css file mai use karte hai...
+
+* letter-spacing => Same as word spacing but isme letter space de sakte hai..
+
