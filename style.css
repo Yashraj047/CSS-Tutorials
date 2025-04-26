@@ -1,0 +1,41 @@
+.row{
+    width : 1000px;
+    height : 100px;
+    background-color: rgb(228, 255, 24);
+    color : black;
+    font-size : 2em;
+    text-align : center;
+    text-decoration : underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.box{
+    width : 1000px;
+    height : 540px;
+    background-color: rgb(84, 192, 228);
+}
+.row1c1{
+    width : 200px;
+    height : 40px;
+    background-color: rgb(28, 255, 24);
+    color: black;
+    float: left;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+.row2left{
+    width : 250px;
+    height : 200px;
+    float : left;
+    background-color: violet;
+}
+.row2right{
+    width : 750px;
+    height : 200px;
+    float : left;
+    background-color: rgb(153, 11, 11);
+}
+.row2{
+    width : 1000px;
+    height : 200px;
+    background-color: rgb(70, 146, 26);
+}
