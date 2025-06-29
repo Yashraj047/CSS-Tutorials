@@ -39,3 +39,35 @@ for ex :- 1. Uppercase (ABC)
 
 * letter-spacing => Same as word spacing but isme letter space de sakte hai..
 
+* Image => Koi bhi image ko import karane ke liye hum <img src ka use karte hai (./.) iss tareke se hum image ko import kara sakte hai...
+
+# THE CSS BOX MODEL
+
+1. BORDER
+2. MARGIN
+3. PADDING
+
+Website -> 4 Direction
+
+left&right => width
+top bottom => height
+
+Isme border use karne se hamare width or height pe impact padta hai...
+
+1. Border => Size, Type, color.
+
+2. Margin => 2 Div ke bich mai space deta hai aur voh khud bhi space leta hai :) Ek tareke se voh box or div ko khiska deta hai...
+
+* Joh margin hoti hai voh clockwise kaam karti hai...
+Ex :- Top, Right, Bottom, Left
+
+Agar 2 cheeze use hui hai margin mai toh pehli hogi
+
+- top and bottom
+
+- left and right
+
+3. Padding => Isme hum box/div ke andar se jagah leta banata hai...
+
+
+
